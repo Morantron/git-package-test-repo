@@ -1,0 +1,9 @@
+{
+  "name": "git-package-test-repo",
+  "version": "0.0.1",
+  "description": "testing",
+  "main": "index.js",
+  "author": "Jorge Morante <jorge@morante.eu>",
+  "license": "MIT",
+  "private": true
+}
