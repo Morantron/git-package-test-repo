@@ -7,6 +7,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "echo lol > /dev/null"
+    "build": "echo lol > /dev/null",
+    "fake-commit": "echo '// fake commit' >> index.js && git add index.js && git commit -m 'fake commit'"
   }
 }
