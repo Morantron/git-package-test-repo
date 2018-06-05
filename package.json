@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "Jorge Morante <jorge@morante.eu>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "echo lol > /dev/null"
+  }
 }
